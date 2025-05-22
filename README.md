@@ -1,8 +1,8 @@
 <h1>Hello! I'm Isiah! 🇵🇭</h1>
-I'm a Coding Instructor and Curriculum Devleoper specializing in Full-Stack App Development using Machine Learning Libraries. <br>
-Some of the projects I've helped students develop have received international recognition and rewards from the U.S. GameGala Competition 🎮! <br>
-My most recent projects include a simple Full-Stack Application using Flask and JavaScript used for curriculum instruction, and a real-time Discord Bot for a 200+ member server 🤖!<br>
-I'm currently working on breaking into Tech with my first full-time role, so job recommendations or referrals are highly appreciated! <br>
+I'm a Coding Instructor and Curriculum Devleoper specializing in Full-Stack App Development using Machine Learning Libraries, with experience in Database Optimization.
+Some of the projects I've helped students develop have received international recognition and rewards from the U.S. GameGala Competition 🎮! <br> <br>
+My most recent projects include a simple Full-Stack Application using Flask and JavaScript used for curriculum instruction, and a real-time Discord Bot for a 200+ member server 🤖! 
+I'm currently working on breaking into Tech with my first full-time role, so job recommendations or referrals are highly appreciated! <br> <br>
 
 👨‍🏫: Coding Minds Academy, Professional Level </br>
 🎓: UC Irvine, Class of 2022-23 </br>
